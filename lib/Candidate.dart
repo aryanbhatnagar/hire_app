@@ -2099,7 +2099,7 @@ class _CandidateState extends State<Candidate> {
                                                                           controller: reasons,
                                                                           decoration: InputDecoration(
                                                                             //fillColor: Colors.white,
-                                                                            prefixIcon: Icon(Icons.question_mark,color: Colors.grey,),
+                                                                            prefixIcon: Icon(Icons.help,color: Colors.grey,),
                                                                             enabledBorder: OutlineInputBorder(
                                                                                 borderSide: const BorderSide(
                                                                                     color: Colors.grey, width: 2.0),
